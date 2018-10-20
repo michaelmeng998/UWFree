@@ -1,2 +1,2 @@
 # UWOpenRooms
-#Web App to help students search for empty study rooms near the location on the Waterloo Campus
+#Web App to help students search for empty study rooms near their location on the Waterloo Campus
